@@ -4,6 +4,7 @@ import com.example.employeemanager.exception.UserNotFoundException;
 import com.example.employeemanager.model.Employee;
 import com.example.employeemanager.repo.EmployeeRepo;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
@@ -14,7 +15,7 @@ import java.util.UUID;
 @Transactional
 public class EmployeeService {
     private final EmployeeRepo employeeRepo;
-
+    private String filesPath;
     @Autowired
     public EmployeeService(EmployeeRepo employeeRepo) {
         this.employeeRepo = employeeRepo;
@@ -40,6 +41,10 @@ public class EmployeeService {
 
     public void deleteEmployee(Long id){
         employeeRepo.deleteEmployeeById(id);
+    }
+
+    public List<Employee> listAll() {
+        return employeeRepo.findAll(Sort.by("id").ascending());
     }
 
 }
