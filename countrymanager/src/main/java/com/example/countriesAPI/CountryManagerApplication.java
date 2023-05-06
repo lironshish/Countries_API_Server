@@ -1,4 +1,4 @@
-package com.example.employeemanager;
+package com.example.countriesAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,10 +11,10 @@ import java.util.Arrays;
 
 
 @SpringBootApplication
-public class EmployeemanagerApplication {
+public class CountryManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeemanagerApplication.class, args);
+		SpringApplication.run(CountryManagerApplication.class, args);
 	}
 	@Bean
 	public CorsFilter corsFilter() {

@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/employeemanager/pom.xml" />
+        <option value="$PROJECT_DIR$/countrymanager/pom.xml" />
       </list>
     </option>
   </component>
