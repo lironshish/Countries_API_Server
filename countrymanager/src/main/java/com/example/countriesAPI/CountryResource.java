@@ -33,6 +33,15 @@ public class CountryResource {
         return new ResponseEntity<>(country, HttpStatus.OK);
     }
 
+
+    /*Return HTTP response and in the body there is a list of Countries */
+    @GetMapping("/{name}")
+    public ResponseEntity<Country> getCountry(@PathVariable("name") String name) {
+        Country country = countryService.findCountryByName(name);
+        return new ResponseEntity<>(country, HttpStatus.OK);
+    }
+
+
     /*Return HTTP response and in the body there is a list of Countries */
     @GetMapping("/find_coin/{name}")
     public String getCoinByName(@PathVariable("name") String name) {

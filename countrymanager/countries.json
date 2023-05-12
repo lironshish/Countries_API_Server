@@ -1,0 +1,842 @@
+[
+  {
+    "imageUrl": "",
+    "name": "Cambodia",
+    "coin": "Cambodian riel"
+  },
+  {
+    "imageUrl": "",
+    "name": "Cameroon",
+    "coin": "Central African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Canada",
+    "coin": "Canadian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Cape Verde",
+    "coin": "Cape Verdean escudo"
+  },
+  {
+    "imageUrl": "",
+    "name": "Central African Republic",
+    "coin": "Central African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Chad",
+    "coin": "Central African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Chile",
+    "coin": "Chilean peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "China",
+    "coin": "Chinese yuan"
+  },
+  {
+    "imageUrl": "",
+    "name": "Colombia",
+    "coin": "Colombian peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "Comoros",
+    "coin": "Comorian franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Congo",
+    "coin": "Congolese franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Costa Rica",
+    "coin": "Costa Rican colon"
+  },
+  {
+    "imageUrl": "",
+    "name": "Croatia",
+    "coin": "Croatian kuna"
+  },
+  {
+    "imageUrl": "",
+    "name": "Cuba",
+    "coin": "Cuban peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "Cyprus",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Czech Republic",
+    "coin": "Czech koruna"
+  },
+  {
+    "imageUrl": "",
+    "name": "Denmark",
+    "coin": "Danish krone"
+  },
+  {
+    "imageUrl": "",
+    "name": "Djibouti",
+    "coin": "Djiboutian franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Dominica",
+    "coin": "East Caribbean dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Dominican Republic",
+    "coin": "Dominican peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "East Timor",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Ecuador",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Egypt",
+    "coin": "Egyptian pound"
+  },
+  {
+    "imageUrl": "",
+    "name": "El Salvador",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Equatorial Guinea",
+    "coin": "Central African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Eritrea",
+    "coin": "Eritrean nakfa"
+  },
+  {
+    "imageUrl": "",
+    "name": "Estonia",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Eswatini",
+    "coin": "Swazi lilangeni"
+  },
+  {
+    "imageUrl": "",
+    "name": "Ethiopia",
+    "coin": "Ethiopian birr"
+  },
+  {
+    "imageUrl": "",
+    "name": "Fiji",
+    "coin": "Fijian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Finland",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "France",
+    "coin": "Euro"
+  },
+ {
+    "imageUrl": "",
+    "name": "Gabon",
+    "coin": "Central African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Gambia",
+    "coin": "Gambian dalasi"
+  },
+  {
+    "imageUrl": "",
+    "name": "Georgia",
+    "coin": "Georgian lari"
+  },
+  {
+    "imageUrl": "",
+    "name": "Germany",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Ghana",
+    "coin": "Ghanaian cedi"
+  },
+  {
+    "imageUrl": "",
+    "name": "Greece",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Grenada",
+    "coin": "East Caribbean dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Guatemala",
+    "coin": "Guatemalan quetzal"
+  },
+  {
+    "imageUrl": "",
+    "name": "Guinea",
+    "coin": "Guinean franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Guinea-Bissau",
+    "coin": "West African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Guyana",
+    "coin": "Guyanese dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Haiti",
+    "coin": "Haitian gourde"
+  },
+  {
+    "imageUrl": "",
+    "name": "Honduras",
+    "coin": "Honduran lempira"
+  },
+  {
+    "imageUrl": "",
+    "name": "Hungary",
+    "coin": "Hungarian forint"
+  },
+  {
+    "imageUrl": "",
+    "name": "Iceland",
+    "coin": "Icelandic króna"
+  },
+  {
+    "imageUrl": "",
+    "name": "India",
+    "coin": "Indian rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Indonesia",
+    "coin": "Indonesian rupiah"
+  },
+  {
+    "imageUrl": "",
+    "name": "Iran",
+    "coin": "Iranian rial"
+  },
+  {
+    "imageUrl": "",
+    "name": "Iraq",
+    "coin": "Iraqi dinar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Ireland",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Israel",
+    "coin": "Israeli new shekel"
+  },
+  {
+    "imageUrl": "",
+    "name": "Italy",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Jamaica",
+    "coin": "Jamaican dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Japan",
+    "coin": "Japanese yen"
+  },
+  {
+    "imageUrl": "",
+    "name": "Jordan",
+    "coin": "Jordanian dinar"
+  },
+{
+    "imageUrl": "",
+    "name": "Kazakhstan",
+    "coin": "Kazakhstani tenge"
+  },
+  {
+    "imageUrl": "",
+    "name": "Kenya",
+    "coin": "Kenyan shilling"
+  },
+  {
+    "imageUrl": "",
+    "name": "Kiribati",
+    "coin": "Australian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Korea, North",
+    "coin": "North Korean won"
+  },
+  {
+    "imageUrl": "",
+    "name": "Korea, South",
+    "coin": "South Korean won"
+  },
+  {
+    "imageUrl": "",
+    "name": "Kosovo",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Kuwait",
+    "coin": "Kuwaiti dinar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Kyrgyzstan",
+    "coin": "Kyrgyzstani som"
+  },
+  {
+    "imageUrl": "",
+    "name": "Laos",
+    "coin": "Lao kip"
+  },
+  {
+    "imageUrl": "",
+    "name": "Latvia",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Lebanon",
+    "coin": "Lebanese pound"
+  },
+  {
+    "imageUrl": "",
+    "name": "Lesotho",
+    "coin": "Lesotho loti"
+  },
+  {
+    "imageUrl": "",
+    "name": "Liberia",
+    "coin": "Liberian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Libya",
+    "coin": "Libyan dinar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Liechtenstein",
+    "coin": "Swiss franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Lithuania",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Luxembourg",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Madagascar",
+    "coin": "Malagasy ariary"
+  },
+  {
+    "imageUrl": "",
+    "name": "Malawi",
+    "coin": "Malawian kwacha"
+  },
+  {
+    "imageUrl": "",
+    "name": "Malaysia",
+    "coin": "Malaysian ringgit"
+  },
+  {
+    "imageUrl": "",
+    "name": "Maldives",
+    "coin": "Maldivian rufiyaa"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mali",
+    "coin": "West African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Malta",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Marshall Islands",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mauritania",
+    "coin": "Mauritanian ouguiya"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mauritius",
+    "coin": "Mauritian rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mexico",
+    "coin": "Mexican peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "Micronesia",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Moldova",
+    "coin": "Moldovan leu"
+  },
+  {
+    "imageUrl": "",
+    "name": "Monaco",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mongolia",
+    "coin": "Mongolian tögrög"
+  },
+  {
+    "imageUrl": "",
+    "name": "Montenegro",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Morocco",
+    "coin": "Moroccan dirham"
+  },
+  {
+    "imageUrl": "",
+    "name": "Mozambique",
+    "coin": "Mozambican metical"
+  },
+  {
+    "imageUrl": "",
+    "name": "Myanmar",
+    "coin": "Burmese kyat"
+  },
+  {
+    "imageUrl": "",
+    "name": "Namibia",
+    "coin": "Namibian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Nauru",
+    "coin": "Australian dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Nepal",
+    "coin": "Nepalese rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Netherlands",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "New Zealand",
+    "coin": "New Zealand dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Nicaragua",
+    "coin": "Nicaraguan córdoba"
+  },
+  {
+    "imageUrl": "",
+    "name": "Niger",
+    "coin": "West African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Nigeria",
+    "coin": "Nigerian naira"
+  },
+  {
+    "imageUrl": "",
+    "name": "North Macedonia",
+    "coin": "Macedonian denar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Norway",
+    "coin": "Norwegian krone"
+  },
+  {
+    "imageUrl": "",
+    "name": "Oman",
+    "coin": "Omani rial"
+  },
+  {
+    "imageUrl": "",
+    "name": "Pakistan",
+    "coin": "Pakistani rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Palau",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Panama",
+    "coin": "Panamanian balboa"
+  },
+  {
+    "imageUrl": "",
+    "name": "Papua New Guinea",
+    "coin": "Papua New Guinean kina"
+  },
+  {
+    "imageUrl": "",
+    "name": "Paraguay",
+    "coin": "Paraguayan guaraní"
+  },
+  {
+    "imageUrl": "",
+    "name": "Peru",
+    "coin": "Peruvian sol"
+  },
+  {
+    "imageUrl": "",
+    "name": "Philippines",
+    "coin": "Philippine peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "Poland",
+    "coin": "Polish złoty"
+  },
+  {
+    "imageUrl": "",
+    "name": "Portugal",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Romania",
+    "coin": "Romanian leu"
+  },
+  {
+    "imageUrl": "",
+    "name": "Russia",
+    "coin": "Russian ruble"
+  },
+  {
+    "imageUrl": "",
+    "name": "Rwanda",
+    "coin": "Rwandan franc"
+  },
+ {
+    "imageUrl": "",
+    "name": "Samoa",
+    "coin": "Samoan tālā"
+  },
+  {
+    "imageUrl": "",
+    "name": "San Marino",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Sao Tome and Principe",
+    "coin": "São Tomé and Príncipe dobra"
+  },
+  {
+    "imageUrl": "",
+    "name": "Saudi Arabia",
+    "coin": "Saudi riyal"
+  },
+  {
+    "imageUrl": "",
+    "name": "Senegal",
+    "coin": "West African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Serbia",
+    "coin": "Serbian dinar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Seychelles",
+    "coin": "Seychellois rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Sierra Leone",
+    "coin": "Sierra Leonean leone"
+  },
+  {
+    "imageUrl": "",
+    "name": "Singapore",
+    "coin": "Singapore dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Slovakia",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Slovenia",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Solomon Islands",
+    "coin": "Solomon Islands dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Somalia",
+    "coin": "Somali shilling"
+  },
+  {
+    "imageUrl": "",
+    "name": "South Africa",
+    "coin": "South African rand"
+  },
+  {
+    "imageUrl": "",
+    "name": "South Sudan",
+    "coin": "South Sudanese pound"
+  },
+  {
+    "imageUrl": "",
+    "name": "Spain",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Sri Lanka",
+    "coin": "Sri Lankan rupee"
+  },
+  {
+    "imageUrl": "",
+    "name": "Sudan",
+    "coin": "Sudanese pound"
+  },
+  {
+    "imageUrl": "",
+    "name": "Suriname",
+    "coin": "Surinamese dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Swaziland",
+    "coin": "Swazi lilangeni"
+  },
+  {
+    "imageUrl": "",
+    "name": "Sweden",
+    "coin": "Swedish krona"
+  },
+  {
+    "imageUrl": "",
+    "name": "Switzerland",
+    "coin": "Swiss franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Syria",
+    "coin": "Syrian pound"
+  },
+  {
+    "imageUrl": "",
+    "name": "Taiwan",
+    "coin": "New Taiwan dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Tajikistan",
+    "coin": "Tajikistani somoni"
+  },
+  {
+    "imageUrl": "",
+    "name": "Tanzania",
+    "coin": "Tanzanian shilling"
+  },
+  {
+    "imageUrl": "",
+    "name": "Thailand",
+    "coin": "Thai baht"
+  },
+  {
+    "imageUrl": "",
+    "name": "Timor-Leste",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Togo",
+    "coin": "West African CFA franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Tonga",
+    "coin": "Tongan paʻanga"
+  },
+  {
+    "imageUrl": "",
+    "name": "Trinidad and Tobago",
+    "coin": "Trinidad and Tobago dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Tunisia",
+    "coin": "Tunisian dinar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Turkey",
+    "coin": "Turkish lira"
+  },
+  {
+    "imageUrl": "",
+    "name": "Turkmenistan",
+    "coin": "Turkmenistan manat"
+  },
+  {
+    "imageUrl": "",
+    "name": "Tuvalu",
+    "coin": "Tuvaluan dollar"
+  },
+ {
+    "imageUrl": "",
+    "name": "Uganda",
+    "coin": "Ugandan shilling"
+  },
+  {
+    "imageUrl": "",
+    "name": "Ukraine",
+    "coin": "Ukrainian hryvnia"
+  },
+  {
+    "imageUrl": "",
+    "name": "United Arab Emirates",
+    "coin": "United Arab Emirates dirham"
+  },
+  {
+    "imageUrl": "",
+    "name": "United Kingdom",
+    "coin": "Pound sterling"
+  },
+  {
+    "imageUrl": "",
+    "name": "United States",
+    "coin": "United States dollar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Uruguay",
+    "coin": "Uruguayan peso"
+  },
+  {
+    "imageUrl": "",
+    "name": "Uzbekistan",
+    "coin": "Uzbekistani som"
+  },
+ {
+    "imageUrl": "",
+    "name": "Vanuatu",
+    "coin": "Vanuatu vatu"
+  },
+  {
+    "imageUrl": "",
+    "name": "Vatican City",
+    "coin": "Euro"
+  },
+  {
+    "imageUrl": "",
+    "name": "Venezuela",
+    "coin": "Venezuelan bolívar"
+  },
+  {
+    "imageUrl": "",
+    "name": "Vietnam",
+    "coin": "Vietnamese đồng"
+  },
+  {
+    "imageUrl": "",
+    "name": "Wallis and Futuna",
+    "coin": "CFP franc"
+  },
+  {
+    "imageUrl": "",
+    "name": "Western Sahara",
+    "coin": "Moroccan dirham"
+  },
+  {
+    "imageUrl": "",
+    "name": "Yemen",
+    "coin": "Yemeni rial"
+  },
+  {
+    "imageUrl": "",
+    "name": "Zambia",
+    "coin": "Zambian kwacha"
+  },
+  {
+    "imageUrl": "",
+    "name": "Zimbabwe",
+    "coin": "Zimbabwean dollar"
+  }
+]
+
+
+
+
+
+
+
+
+
+

@@ -13,6 +13,7 @@ public interface CountryRepo extends JpaRepository<Country,Long> {
 
     Optional<Country> findCountryById(Long id);
     Optional<Country> findCoinByName(String name);
+    Optional<Country> findCountryByName(String name);
 
     void deleteCountryById(Long id);
 }

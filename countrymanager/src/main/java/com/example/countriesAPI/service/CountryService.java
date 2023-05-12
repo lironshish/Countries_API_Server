@@ -39,6 +39,11 @@ public class CountryService {
                 .orElseThrow(() -> new CountryNotFoundException("Country by id " + id + " was not found"));
     }
 
+    public Country findCountryByName(String name) {
+        return countryRepo.findCountryByName(name)
+                .orElseThrow(() -> new CountryNotFoundException("Country " + name + " was not found"));
+    }
+
     public Country findCoinByName(String name) {
         return countryRepo.findCoinByName(name)
                 .orElseThrow(() -> new CoinNotFoundException("Coin by Country " + name + " was not found"));
