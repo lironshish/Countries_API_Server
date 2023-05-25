@@ -22,7 +22,6 @@ public class CountryService {
     }
 
     public Country addCountry(Country country) {
-//        employee.setEmployeeCode(UUID.randomUUID().toString());
         return countryRepo.save(country);
     }
 

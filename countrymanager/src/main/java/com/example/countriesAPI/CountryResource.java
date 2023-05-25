@@ -67,7 +67,7 @@ public class CountryResource {
     }
 
     @DeleteMapping("/delete/{id}")
-    public ResponseEntity<?> deleteCountry(@PathVariable("id") Long id) {
+    public ResponseEntity<Void> deleteCountry(@PathVariable("id") Long id) {
         countryService.deleteCountry(id);
         return new ResponseEntity<>(HttpStatus.OK);
     }
