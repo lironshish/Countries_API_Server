@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 
 @RestController
@@ -60,10 +61,22 @@ public class CountryResource {
         return new ResponseEntity<>(newCountry, HttpStatus.CREATED);
     }
 
-    @PutMapping("/update")
-    public ResponseEntity<Country> updateCountry(@RequestBody Country country) {
-        Country updatedCountry = countryService.updateCountry(country);
-        return new ResponseEntity<>(updatedCountry, HttpStatus.OK);
+    @PutMapping("/update/{id}")
+    public ResponseEntity<Country> updateCountry(@PathVariable("id") Long id, @RequestBody Country updatedCountry) {
+        ResponseEntity<Country> optionalCountry = getCountryById(id);
+        if (optionalCountry != null) {
+            Country existingCountry = optionalCountry.getBody();
+
+            // Update the properties of the existing country with the new values
+            existingCountry.setName(updatedCountry.getName());
+            existingCountry.setCoin(updatedCountry.getCoin());
+
+            // Save the updated country
+            countryService.updateCountry(existingCountry);
+            return new ResponseEntity<>(HttpStatus.OK);
+        } else {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
     }
 
     @DeleteMapping("/delete/{id}")
